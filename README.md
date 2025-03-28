@@ -16,3 +16,4 @@ Make a demo.
 
 Make a demo to illustrate the push and pull commands.
 The demo shall reflect the basic principles of a conflit in git.
+This video should be a short one only introducing the basic concepts.

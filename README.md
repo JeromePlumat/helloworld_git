@@ -11,3 +11,7 @@ To teach git to students.
 ## Means
 
 Make a demo.
+
+## Pull and push
+
+Make a demo to illustrate the push and pull commands.

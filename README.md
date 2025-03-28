@@ -15,3 +15,4 @@ Make a demo.
 ## Pull and push
 
 Make a demo to illustrate the push and pull commands.
+The demo shall reflect the basic principles of a conflit in git.

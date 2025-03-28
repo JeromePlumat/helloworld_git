@@ -7,3 +7,7 @@ year: 2025
 ## Goal
 
 To teach git to students.
+
+## Means
+
+Make a demo.
